@@ -6,4 +6,4 @@ A repo to setup new systems
 * Ulauncher
 * Brave Browser
 * Edge Browser
-
+* Vimium
